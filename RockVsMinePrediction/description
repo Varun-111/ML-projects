@@ -1,0 +1,6 @@
+This Rock vs Mine Prediction project uses machine learning to classify sonar signals as rocks or mines (underwater mines).
+It utilizes the Sonar dataset, where each instance represents sonar readings bounced off different objects.
+The project includes data preprocessing, model training (e.g., Logistic Regression, SVM), and evaluation.
+It demonstrates concepts like feature scaling, classification, and model accuracy measurement.
+Useful for understanding real-world applications of ML in defense and sonar-based detection.
+Great for intermediate learners exploring signal classification using supervised learning.
