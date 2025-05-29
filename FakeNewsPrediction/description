@@ -1,0 +1,6 @@
+This Fake News Prediction project uses machine learning to classify news articles as real or fake.
+It involves text preprocessing techniques such as tokenization, stopword removal, and vectorization (TF-IDF).
+Models like Logistic Regression or Naive Bayes are trained on labeled datasets to make accurate predictions.
+The project highlights key concepts in Natural Language Processing (NLP) and classification algorithms.
+It helps users understand how misinformation can be detected using AI techniques.
+Suitable for intermediate learners looking to explore ML applications in real-world problems.
