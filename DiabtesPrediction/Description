@@ -1,0 +1,15 @@
+The Diabetes Prediction project uses machine learning to identify whether a person is likely to have diabetes based on medical data.
+It utilizes the Pima Indians Diabetes dataset, which includes features like glucose level, BMI, age, insulin, and blood pressure.
+The data is preprocessed and normalized to ensure better model performance.
+Classification algorithms such as Logistic Regression, Random Forest, or SVM are trained to make predictions.
+Model performance is evaluated using metrics like accuracy, precision, recall, and confusion matrix.
+This project demonstrates the practical use of ML in the healthcare domain for early diagnosis.
+It helps in understanding classification problems and real-world medical data handling.
+Ideal for intermediate learners exploring healthcare analytics and predictive modeling.
+
+
+
+
+
+
+
