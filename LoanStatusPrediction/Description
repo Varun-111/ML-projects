@@ -1,0 +1,15 @@
+The Loan Status Prediction project applies machine learning to predict whether a loan application will be approved or not.
+It uses a dataset containing applicant information such as income, employment status, credit history, loan amount, and more.
+Data preprocessing includes handling missing values, encoding categorical data, and feature scaling.
+Classification algorithms like Logistic Regression, Decision Tree, or Random Forest are used for model training.
+Model performance is measured using accuracy, confusion matrix, and cross-validation techniques.
+The project simulates real-world financial risk assessment used by banks and lending institutions.
+It highlights key ML concepts like feature engineering, model evaluation, and binary classification.
+Great for learners aiming to build predictive models in the finance and lending sector.
+
+
+
+
+
+
+
