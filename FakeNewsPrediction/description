@@ -1,3 +1,5 @@
+Note : As the dataset is large it was not uploaded. You can find the dataset in kaggle(named : Train.csv).
+
 This Fake News Prediction project uses machine learning to classify news articles as real or fake.
 It involves text preprocessing techniques such as tokenization, stopword removal, and vectorization (TF-IDF).
 Models like Logistic Regression or Naive Bayes are trained on labeled datasets to make accurate predictions.
