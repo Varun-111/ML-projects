@@ -1,0 +1,10 @@
+The Car Price Prediction project aims to estimate the selling price of a car based on its features using machine learning.
+Initially, we modeled the problem using Linear Regression and Lasso Regression to understand the baseline performance.
+Later, for improved accuracy and robustness, we implemented the XGBoost algorithm, which gave better results.
+The dataset includes features such as car brand, year of manufacture, mileage, fuel type, transmission, and more.
+Data preprocessing involved handling missing values, encoding categorical variables, and feature selection.
+We evaluated the models using metrics like R² score, Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE).
+The project demonstrates how advanced regression algorithms can enhance prediction performance.
+It showcases real-world applications of ML in the automobile resale market.
+Ideal for learners exploring regression techniques, feature engineering, and ensemble learning.
+A great step toward understanding price prediction and decision-making using machine learning.
